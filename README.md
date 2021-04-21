@@ -2,7 +2,9 @@
 - 👀 Yo estoy interezado en formar un mundo de programación y creacion de videos.
 - 🌱 Puedes ver mis proyectos donde tenemos JOSPROX Responsivo, donde tambien creamos un sitio web, visitanos en https://josprox.com.mx/ y en https://josprox.com.mx/
 - 💞️ JP Responsivo es codigo abierto, puedes verlo, usar y modificar.
-- 📫 Copyright (c) 2021 de JOSPROX MX/ JOSPROX Internacional (https://josprox.com/  ,  https://josprox.com.mx/) Tales del presente adquisidor (José Luis Melchor Estrada)
+- 📫 Copyright (c) 2021 de JOSPROX MX/ JOSPROX Internacional (https://josprox.com/  ,  https://josprox.com.mx/) Tales del presente adquisidor (José Luis Melchor Estrada).
+- - Los códigos son abiertos, puedes ocuparlos pero no se permite su distribución con su supuesta adquisición, de hacerlo se mandará una demanda o actividad nula para esta persona, siempre será para aclarar que el codigo es de José Luis Melchor Estrada pero sin restricciones como se mencionará más adelante.
+- Puedes ayudar dando tu aportación enviando los códigos con un ejemplo de uso al correo “joss@int.josprox.com”.
 
 Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para operar con el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, fusión , publicar, distribuir, sublicenciar y / o vender copias del Software, y permitir que las personas a las que se les proporcione el Software lo hagan, sujeto a las siguientes condiciones:
 
