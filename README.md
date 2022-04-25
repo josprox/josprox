@@ -2,7 +2,7 @@
 - 👀 Yo estoy interezado en formar un mundo de programación y creacion de videos.
 - 🌱 Puedes ver mis proyectos donde tenemos JOSPROX Responsivo, donde tambien creamos un sitio web, visitanos en https://josprox.com/
 - 💞️ Todos los proyectos son de codigo abierto, puedes verlo, usar y modificar.
-- 📫 Copyright (c) 2021 de JOSPROX MX/ JOSPROX Internacional (https://josprox.com/) Tales del presente adquisidor (José Luis Melchor Estrada).
+- 📫 Copyright (c) 2020 - 2022 de JOSPROX MX/ JOSPROX Internacional (https://josprox.com/) Tales del presente adquisidor (José Luis Melchor Estrada).
 - - Los códigos son abiertos, puedes ocuparlos pero no se permite su distribución con su supuesta adquisición, de hacerlo se mandará una demanda o actividad nula para esta persona, siempre será para aclarar que el codigo es de José Luis Melchor Estrada pero sin restricciones como se mencionará más adelante.
 - Puedes ayudar dando tu aportación enviando los códigos con un ejemplo de uso al correo “joss@int.josprox.com”.
 
