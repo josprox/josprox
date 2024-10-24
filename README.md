@@ -45,12 +45,19 @@ Soy un desarrollador web desde el 2020, creando soluciones y llevando sueños a 
 
 ## Redes sociales
 
-<a href="https://www.instagram.com/jossprox">
+<a href="https://www.facebook.com/Josproxmx">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.instagram.com/josprox">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.twitch.tv/jossprox" >
+<a href="https://twitter.com/josprox">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://www.twitch.tv/josprox">
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
+
 
 <h2>Estadísticas de GitHub:</h2> 
 
