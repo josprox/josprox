@@ -1,7 +1,7 @@
 <h1 align="center"><b>¡Hola! Soy José Luis Melchor Estrada</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--  -->
-<img align="right" style="border-radius: 30px;" width=300px alt="Trabajando" src="https://josprox.com/wp-content/uploads/2023/10/profile.png" />
+<img align="right" width=300px alt="JOSPROX desde 2020" src="https://josprox.com/wp-content/uploads/2023/10/profile.png" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
@@ -18,19 +18,29 @@ Soy un desarrollador web desde el 2020, creando soluciones y llevando sueños a 
 <h4>Lenguajes</h4>
 <span> 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
 </span>
 
 <h4>Otras herramientas y tecnologías</h4>
 <span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/JosSecurity-4CAF50?style=for-the-badge&logo=shield&logoColor=white">
+</span>
+
+<h4>Frameworks</h4>
+<span>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/JosSecurity-4CAF50?style=for-the-badge&logo=none&logoColor=white">
 </span>
 
 ## Redes sociales
